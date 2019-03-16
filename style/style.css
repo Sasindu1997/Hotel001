@@ -12,7 +12,7 @@ body{
     height: auto;
     z-index: -1;
 }
-.homesection{
+.home-section{
     height: 100vh;
     display: flex;
     align-items: center;
